@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Appeller" android:id="@+id/i0"  app:showAsAction="ifRoom"/>
+    <item android:title="Messager" android:id="@+id/i1" app:showAsAction="ifRoom"/>
+    <item android:title="Supprimer"  android:id="@+id/i2" app:showAsAction="ifRoom"/>
+    <item android:title="Modifier"  android:id="@+id/i3" app:showAsAction="ifRoom"/>
+</menu>
